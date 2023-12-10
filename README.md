@@ -1,2 +1,2 @@
 # Profile-card
-Profile card using HTMl &amp; CSS
+Profile card using HTML &amp; CSS
